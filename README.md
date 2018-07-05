@@ -20,10 +20,10 @@
 
 초보자의 경우 Twitter Bootstrap, Zurb Foundation, 혹은 Bulma와 같은 CSS Framework은 사용하지 마시기 바랍니다. 또한 해당 페이지의 소스 코드를 보지 말고 스스로 생각하여 구현해보시기 바랍니다. 아래에 나열된 페이지들 이외에도 스스로 웹사이트를 보고 똑같이 따라만드는 시도를 해보시면 좋습니다. 처음에는 간단한 페이지도 일주일 이상 소요될 수 있습니다. 하지만 많은 시간을 투자하고 스스로 생각하는 과정을 겪다보면 소요 시간은 분명 줄어들 것입니다. HTML/CSS만을 연습하는 만큼 interaction이나 움직임은 무시하고 생긴 모양새만 똑같이 만들어보시면 됩니다. 이미지나 폰트의 경우, 해당 홈페이지에서 개발자 도구를 열어 소스 파일 주소를 찾아보실 수 있습니다.
 
-* [구글 홈페이지](https://www.google.com)
-* [해커 뉴스](https://news.ycombinator.com/)
-* [Thinkful](https://www.thinkful.com/)
-* [Udacity](https://www.udacity.com/)
+* [구글 홈페이지](https://www.google.com) 똑같이 만들어보기
+* [해커 뉴스](https://news.ycombinator.com/) 똑같이 만들어보기
+* [Thinkful](https://www.thinkful.com/) 똑같이 만들어보기
+* [Udacity](https://www.udacity.com/) 똑같이 만들어보기
 
 ## Javascript
 
