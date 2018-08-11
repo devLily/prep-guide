@@ -32,6 +32,7 @@
 * [생활코딩 자바스크립트](https://www.opentutorials.org/course/743) (정규표현식 부분 제외/한글)
 * [생활코딩 웹](https://www.opentutorials.org/course/3085) (한글)
 * [프로그래머스](https://programmers.co.kr/learn/courses/3) (한글)
+* [프로그래머스 웹](https://programmers.co.kr/learn/courses/10) (한글)
 * [w3schools](https://www.w3schools.com/jS/default.asp) (영어)
 * [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) (영어)
 * [Eloquent Javascript](https://eloquentjavascript.net/) (영어)
