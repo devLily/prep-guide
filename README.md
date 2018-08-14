@@ -25,6 +25,11 @@
 * [Thinkful](https://www.thinkful.com/) 똑같이 만들어보기
 * [Udacity](https://www.udacity.com/) 똑같이 만들어보기
 
+### 자가 점검 테스트
+
+1. [Horizontal Alignment](https://codepen.io/ken123777/pen/JBVRwY?editors=1100#0)
+2. [Layouts](https://codepen.io/ken123777/pen/VBNmKz?editors=1100#0)
+
 ## Javascript
 
 ### 강의
