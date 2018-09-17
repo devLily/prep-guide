@@ -14,7 +14,8 @@
 ### 강의 및 관련 자료
 
 * [생활코딩](https://www.opentutorials.org/course/3084) (한글)
-* [CSS Layout](http://ko.learnlayout.com/toc.html) (한글)
+* [CSS Layout](http://ko.learnlayout.com/toc.html) (한글 - 추천)
+* [shayhowe.com](https://learn.shayhowe.com/html-css/) (영어 - 추천)
 * [w3schools HTML](https://www.w3schools.com/Html) (영어)
 * [w3schools CSS](https://www.w3schools.com/Css/) (영어)
 * [HTML Cheatsheet](https://digital.com/tools/html-cheatsheet/) (영어)
@@ -22,7 +23,6 @@
 * [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (영어)
 * [Codecademy HTML](https://www.codecademy.com/learn/learn-html) (영어)
 * [Codecademy CSS](https://www.codecademy.com/learn/learn-css) (영어)
-* [shayhowe.com](https://learn.shayhowe.com/html-css/) (영어)
 
 ### 기초 테스트
 
@@ -44,20 +44,22 @@
 
 * [생활코딩 자바스크립트](https://www.opentutorials.org/course/743) (정규표현식 부분 제외/한글)
 * [프로그래머스](https://programmers.co.kr/learn/courses/3) (한글)
+* [CoderByte](https://coderbyte.com/course/learn-javascript-in-one-week/) (영어 - 추천)
+* [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (영어 - 추천)
+* [Eloquent Javascript](https://eloquentjavascript.net/) (영어)
 * [w3schools](https://www.w3schools.com/jS/default.asp) (영어)
 * [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) (영어)
-* [Eloquent Javascript](https://eloquentjavascript.net/) (영어)
-* [CoderByte](https://coderbyte.com/course/learn-javascript-in-one-week/) (영어)
-* [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (영어)
 
 ### 테스트
 
-정규표현식과 정렬 관련 메소드는 사용하지 마시고 최대한 스스로 생각하여 답을 찾기 바랍니다. 아래에 나열된 세가지 중 원하는 플랫폼을 선택하여 이용하세요.
+정규표현식과 정렬 관련 메소드는 사용하지 마시고 최대한 스스로 생각하여 답을 찾기 바랍니다. 아래에 나열된 플랫폼들 중 원하는 플랫폼을 선택하여 이용하세요.
 
 - [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) 최소 레벨 3까지
-- [ ] [Codewars 알고리즘 문제](https://www.codewars.com/) (영어)
-- [ ] [Hackerrank 알고리즘 문제](https://www.hackerrank.com/) (영어)
-- [ ] [CoderByte 알고리즘 문제](https://coderbyte.com/challenges) (영어)
+- [ ] [Codewars 알고리즘 문제](https://www.codewars.com/) (영어 - 추천)
+- [ ] [Hackerrank 알고리즘 문제](https://www.hackerrank.com/) (영어 - 추천)
+- [ ] [CoderByte 알고리즘 문제](https://coderbyte.com/challenges) (영어 - 추천)
+- [ ] [LeetCode 알고리즘 문제](https://leetcode.com) (영어 - 추천)
+- [ ] [Codility 알고리즘 문제](https://www.codility.com) (영어 - 추천)
 
 ## 3. DOM Interaction with Javascript
 
