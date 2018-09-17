@@ -4,9 +4,9 @@
 
 ## 도움이 될 만한 도구
 
-* [jsbin](jsbin.com)
-* [jsfiddle](jsfiddle.net)
-* [codepen](codepen.io)
+* [jsbin](https://jsbin.com)
+* [jsfiddle](https://jsfiddle.net)
+* [codepen](https://codepen.io)
 * 개발자 도구 (유투브에 개발자 도구 혹은 developer tools 검색하시면 많은 tutorial들이 있습니다.)
 
 ## 1. HTML & CSS
@@ -52,7 +52,7 @@
 
 ### 테스트
 
-정규표현식은 사용하지 마시고 최대한 스스로 생각하여 답을 찾기 바랍니다. 아래에 나열된 세가지 중 원하는 플랫폼을 선택하여 이용하세요.
+정규표현식과 정렬 관련 메소드는 사용하지 마시고 최대한 스스로 생각하여 답을 찾기 바랍니다. 아래에 나열된 세가지 중 원하는 플랫폼을 선택하여 이용하세요.
 
 - [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) 최소 레벨 3까지
 - [ ] [Codewars 알고리즘 문제](https://www.codewars.com/) (영어)
