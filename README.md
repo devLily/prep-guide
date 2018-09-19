@@ -80,3 +80,19 @@
 
 - [ ] 시계/스탑워치 만들기
 - [ ] 달력 만들기 (다음 달, 이전 달 이동 가능)
+
+## 4. 사전 준비가 끝난 후
+
+3번까지 사전 준비가 끝나고 멘토님께 컨펌을 받으신 분들의 경우, 아래의 주제들을 미리 학습하고 오시면 좋습니다.
+
+- [ ] Basic Terminal Usage
+- [ ] git과 github 사용법
+- [ ] nodejs 설치
+- [ ] Scope
+- [ ] Hoisting
+- [ ] Primitive(원시값) vs Reference(참조값)
+- [ ] Event Capturing vs Event Bubbling
+- [ ] Prototypes
+- [ ] `this` keyword
+- [ ] Ajax & Asynchronous Programming (비동기)
+- [ ] [Hackernews API](https://github.com/HackerNews/API)를 이용하여 Hackernews Clone 만들어보기
