@@ -15,6 +15,7 @@
 
 * [생활코딩](https://www.opentutorials.org/course/3084) (한글)
 * [CSS Layout](http://ko.learnlayout.com/toc.html) (한글 - 추천)
+* [CSS Selectors](https://flukeout.github.io/)
 * [shayhowe.com](https://learn.shayhowe.com/html-css/) (영어 - 추천)
 * [w3schools HTML](https://www.w3schools.com/Html) (영어)
 * [w3schools CSS](https://www.w3schools.com/Css/) (영어)
