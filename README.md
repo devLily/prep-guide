@@ -74,13 +74,15 @@
 
 ### 기초 테스트
 
+jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합니다. jQuery 웹사이트에 들어가시면 해당 UI 샘플을 볼 수 있습니다.
+
 - [ ] 아코디언 만들기 ([jQuery UI 참고](https://jqueryui.com/accordion/))
 - [ ] 탭 만들기 ([jQuery UI 참고](https://jqueryui.com/tabs/))
 
 ### 심화 테스트
 
 - [ ] 시계/스탑워치 만들기
-- [ ] 달력 만들기 (다음 달, 이전 달 이동 가능)
+- [ ] 달력 만들기 ([참고 링크](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
 
 ## 4. 사전 준비가 끝난 후
 
