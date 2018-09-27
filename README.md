@@ -91,6 +91,7 @@
 - [ ] nodejs 설치
 - [ ] Scope
 - [ ] Hoisting
+- [ ] Closure
 - [ ] Primitive(원시값) vs Reference(참조값)
 - [ ] Event Capturing vs Event Bubbling
 - [ ] Prototypes
