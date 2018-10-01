@@ -101,7 +101,3 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 - [ ] Ajax & Asynchronous Programming (비동기)
 - [ ] [Hackernews API](https://github.com/HackerNews/API)를 이용하여 Hackernews Clone 만들어보기
 - [ ] 지뢰찾기 만들기 ([참고](https://kizmo04.github.io/Minesweeper/))
-
-
-### 기초 테스트만들기
-### 기초 테스트
