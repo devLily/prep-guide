@@ -88,6 +88,8 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 
 3번까지 사전 준비가 끝나고 멘토님께 컨펌을 받으신 분들의 경우, 아래의 주제들을 미리 학습하고 오시면 좋습니다.
 
+추천 도서: [Learning Javascript](https://book.naver.com/bookdb/book_detail.nhn?bid=12181869)
+
 - [ ] Basic Terminal Usage
 - [ ] git과 github 사용법
 - [ ] nodejs 설치
