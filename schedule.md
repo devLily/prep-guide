@@ -37,8 +37,8 @@
 | 1/18 | React - Imperative vs Declarative & Composition & Children & Lifecycle Hooks |
 | 1/21 | CommonJS, ES Modules, AMD, Webpack, Gulp **(과제 10,11 마감일)** |
 | 1/23 | React Router - Intro, URL Parameters, Nested Routes, Passing props to a component |
-| 1/25 | React Router - Programatically navigate, Query String, Handling 404 |
-| 1/28 | Redux - createStore, getState, subscribe, dispatch, reducers, actions **(과제 12 마감일)** |
+| 1/25 | React Router - Programatically navigating with React Router, Handling query string, Handling 404 |
+| 1/28 | Redux - store, getState, subscribe, dispatch, reducers, actions **(과제 12 마감일)** |
 | 1/30 | Redux - combineReducers, middlewares |
 | 2/1 | Redux - architectural patterns, normalizing data structures |
 | 2/4 | Node - Intro, http module, fs module, debugging a Node.js Application **(과제 13,14 마감일)** |
