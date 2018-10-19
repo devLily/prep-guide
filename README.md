@@ -91,7 +91,7 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 추천 도서: [Learning Javascript](https://book.naver.com/bookdb/book_detail.nhn?bid=12181869)
 
 - [ ] Basic Terminal Usage
-- [ ] git과 github 사용법
+- [ ] git([Visualizing Git Tutorial](http://git-school.github.io/visualizing-git/))과 github 사용법
 - [ ] nodejs 설치
 - [ ] Scope
 - [ ] Hoisting
