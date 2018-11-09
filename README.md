@@ -100,6 +100,7 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 - [ ] Hoisting
 - [ ] Closure
 - [ ] Primitive(원시값) vs Reference(참조값)
+- [ ] Function.prototype.call, Function.prototype.apply, Function.prototype.bind
 - [ ] Event Capturing vs Event Bubbling
 - [ ] Prototypes
 - [ ] `this` keyword
