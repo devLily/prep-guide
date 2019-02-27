@@ -45,7 +45,7 @@
 
 ### 강의 및 관련 자료
 
-* [생활코딩 자바스크립트](https://www.opentutorials.org/course/743) (자바스크립트 기본 - 객체까지만)
+* [생활코딩 자바스크립트](https://www.opentutorials.org/course/743) ("자바스크립트 기본" 객체까지만, MDN에서 해당 주제 검색해서 추가로 공부하세요.)
 * [프로그래머스](https://programmers.co.kr/learn/courses/3) (한글)
 * [CoderByte](https://coderbyte.com/course/learn-javascript-in-one-week/) (영어 - 추천)
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (영어 - 추천)
