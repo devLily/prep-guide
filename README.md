@@ -49,7 +49,7 @@
 * [프로그래머스](https://programmers.co.kr/learn/courses/3) (한글)
 * [CoderByte](https://coderbyte.com/course/learn-javascript-in-one-week/) (영어 - 추천)
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) (영어 - 추천)
-* [Eloquent Javascript](https://eloquentjavascript.net/) (영어)
+* [Eloquent Javascript](https://eloquentjavascript.net/) (7번까지 - 영어)
 * [w3schools](https://www.w3schools.com/jS/default.asp) (영어)
 * [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) (영어)
 
