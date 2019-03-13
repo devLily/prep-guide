@@ -57,7 +57,7 @@
 
 정규표현식과 정렬 관련 메소드는 사용하지 마시고 최대한 스스로 생각하여 답을 찾기 바랍니다. 아래에 나열된 플랫폼들 중 원하는 플랫폼을 선택하여 이용하세요.
 
-- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) 최소 레벨 3까지
+- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글)
 - [ ] [Codewars 알고리즘 문제](https://www.codewars.com/) (영어 - 추천)
 - [ ] [Hackerrank 알고리즘 문제](https://www.hackerrank.com/) (영어 - 추천)
 - [ ] [CoderByte 알고리즘 문제](https://coderbyte.com/challenges) (영어 - 추천)
