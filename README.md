@@ -6,14 +6,15 @@
 
 ## 도움이 될 만한 도구
 
+코드 에디터 없이 HTML/CSS/Javascript 작업을 해볼 수 있는 웹 에디터입니다.
+
 * [jsbin](https://jsbin.com)
 * [jsfiddle](https://jsfiddle.net)
 * [codepen](https://codepen.io)
-* 개발자 도구 (유투브에 개발자 도구 혹은 developer tools 검색하시면 많은 tutorial들이 있습니다.)
 
 ## 1. HTML & CSS
 
-### 강의 및 관련 자료
+### 1-1. 강의 및 관련 자료
 
 아래 강의 자료 외에도 개인 선호도에 따라 다른 인터넷 자료나 책을 이용하셔도 괜찮습니다. 아래 자료를 모두 보셔야 하는건 아니고, 학습 상태에 따라 스스로 판단하여 1개 혹은 그 이상 보시면서 공부해보시면 좋을것 같습니다.
 
@@ -29,12 +30,12 @@
 * [Codecademy HTML](https://www.codecademy.com/learn/learn-html) (영어)
 * [Codecademy CSS](https://www.codecademy.com/learn/learn-css) (영어)
 
-### 기초 테스트
+### 1-2. 기초 테스트
 
 - [ ] [Horizontal Alignment](https://codepen.io/ken123777/pen/JBVRwY?editors=1100#0)
 - [ ] [Layouts](https://codepen.io/ken123777/pen/VBNmKz?editors=1100#0)
 
-### 심화 테스트
+### 1-3. 심화 테스트
 
 초보자의 경우 Twitter Bootstrap, Zurb Foundation, 혹은 Bulma와 같은 CSS Framework은 사용하지 마시기 바랍니다. 또한 해당 페이지의 소스 코드를 보지 말고 스스로 생각하여 구현해보시기 바랍니다. 아래에 나열된 페이지들 이외에도 스스로 웹사이트를 보고 똑같이 따라만드는 시도를 해보시면 좋습니다. 처음에는 간단한 페이지도 일주일 이상 소요될 수 있습니다. 하지만 많은 시간을 투자하고 스스로 생각하는 과정을 겪다보면 소요 시간은 분명 줄어들 것입니다. HTML/CSS만을 연습하는 만큼 interaction이나 움직임은 무시하고 생긴 모양새만 똑같이 만들어보시면 됩니다. 이미지나 폰트의 경우, 해당 홈페이지에서 개발자 도구를 열어 소스 파일 주소를 찾아보실 수 있습니다.
 
@@ -45,7 +46,7 @@
 
 ## 2. Javascript
 
-### 강의 및 관련 자료
+### 2-1. 강의 및 관련 자료
 
 * [생활코딩 자바스크립트](https://www.opentutorials.org/course/743) ("자바스크립트 기본" 객체까지만, [MDN](https://developer.mozilla.org/ko/)에서 해당 주제 검색해서 추가로 공부하세요.)
 * [프로그래머스](https://programmers.co.kr/learn/courses/3) (한글)
@@ -55,7 +56,7 @@
 * [w3schools](https://www.w3schools.com/jS/default.asp) (영어)
 * [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) (영어)
 
-### 테스트
+### 2-2. 테스트
 
 #### 유의할 것
 
@@ -77,7 +78,7 @@
 
 ## 3. DOM Interaction with Javascript
 
-### 강의 및 관련 자료
+### 3-1. 강의 및 관련 자료
 
 아래 강의 자료 외에도 개인 선호도에 따라 다른 인터넷 자료나 책을 이용하셔도 괜찮습니다. 아래 자료를 모두 보셔야 하는건 아니고, 학습 상태에 따라 스스로 판단하여 1개 혹은 그 이상 보시면서 공부해보시면 좋을것 같습니다.
 
@@ -87,14 +88,14 @@
 * [Hongkiat](https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/) (영어)
 * [DOM 관련 Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) (영어)
 
-### 기초 테스트
+### 3-2. 기초 테스트
 
 jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합니다. jQuery 웹사이트에 들어가시면 해당 UI 샘플을 볼 수 있습니다.
 
 - [ ] 아코디언 만들기 ([jQuery UI 참고](https://jqueryui.com/accordion/))
 - [ ] 탭 만들기 ([jQuery UI 참고](https://jqueryui.com/tabs/))
 
-### 심화 테스트
+### 3-3. 심화 테스트
 
 - [ ] 시계/스탑워치 만들기
 - [ ] 달력 만들기 ([참고 링크](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
