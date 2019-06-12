@@ -99,7 +99,7 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 
 - [ ] 시계/스탑워치 만들기
 - [ ] 달력 만들기 ([참고 링크](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
-- [ ] 달력에 Todo List 추가하기 (날짜별로 Todo List가 관리되어야 합니다.)
+- [ ] 달력에 [Todo List](http://todomvc.com/examples/vue/) 추가하기 (날짜별로 Todo List가 관리되어야 합니다.)
 
 ## 4. 사전 준비가 끝난 후
 
