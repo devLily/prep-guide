@@ -97,8 +97,8 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 
 ### 3-3. 심화 테스트
 
-- [ ] 달력 만들기 ([참고 링크](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
-- [ ] 달력에 [Todo List](http://todomvc.com/examples/vue/) 추가하기 (날짜별로 Todo List가 관리되어야 합니다.)
+- [ ] 달력 만들기 ([달력 Sample](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
+- [ ] 위에서 만든 달력에 날짜별로 별개 관리가 되는 Todo List 추가하기 ([Todo List Sample](http://todomvc.com/examples/vue/))
 - [ ] 지뢰찾기 게임 만들기
 - [ ] 사다리타기 게임 만들기
 
