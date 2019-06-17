@@ -107,9 +107,9 @@ jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합�
 
 아래 항목들을 순서에 관계없이 시도해보시기 바랍니다. 전부 다 하셔야 할 필요는 없지만, 알고리즘 문제는 반드시 풀어보셔야 합니다.
 
-- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 2 50% 이상
-- [ ] 달력 만들기 ([달력 Sample](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
-- [ ] 위에서 만든 달력에 날짜별로 별개 관리가 되는 Todo List 추가하기 ([Todo List Sample](http://todomvc.com/examples/vue/))
+- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 2 50% 이상, 다른 알고리즘 문제풀이 플랫폼의 초중급 이상의 난이도를 하셔도 됩니다.
+- [ ] [달력](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif) 만들기
+- [ ] 위에서 만든 달력에 날짜별로 별개 관리가 되는 [Todo List](http://todomvc.com/examples/vue/) 추가하기
 - [ ] [지뢰찾기 게임](https://kizmo04.github.io/Minesweeper/) 만들기
 - [ ] [사다리타기 게임](https://minjihee89.github.io/ghost-leg/) 만들기
 
