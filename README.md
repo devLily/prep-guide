@@ -22,6 +22,7 @@
 
 아래 강의 자료 외에도 개인 선호도에 따라 다른 인터넷 자료나 책을 이용하셔도 괜찮습니다. 아래 자료를 모두 보셔야 하는건 아니고, 학습 상태에 따라 스스로 판단하여 1개 혹은 그 이상 보시면서 공부해보시면 좋을것 같습니다.
 
+* [PoiemaWeb HTML5 & CSS3](https://poiemaweb.com/) (HTML5와 CSS3 섹션 only)
 * [생활코딩](https://www.opentutorials.org/course/3084) (한글)
 * [CSS Layout](http://ko.learnlayout.com/toc.html) (한글 - 추천)
 * [CSS Selectors](https://flukeout.github.io/)
@@ -52,6 +53,7 @@
 
 ### 2-1. 강의 및 관련 자료
 
+* [PoiemaWeb JavaScript](https://poiemaweb.com/) (JavaScript 섹션 only)
 * [생활코딩 자바스크립트](https://www.opentutorials.org/course/743) ("자바스크립트 기본" 객체까지만, [MDN](https://developer.mozilla.org/ko/)에서 해당 주제 검색해서 추가로 공부하세요.)
 * [프로그래머스](https://programmers.co.kr/learn/courses/3) (한글)
 * [CoderByte](https://coderbyte.com/course/learn-javascript-in-one-week/) (영어 - 추천)
@@ -86,6 +88,7 @@
 
 아래 강의 자료 외에도 개인 선호도에 따라 다른 인터넷 자료나 책을 이용하셔도 괜찮습니다. 아래 자료를 모두 보셔야 하는건 아니고, 학습 상태에 따라 스스로 판단하여 1개 혹은 그 이상 보시면서 공부해보시면 좋을것 같습니다.
 
+* [PoiemaWeb JavaScript](https://poiemaweb.com/) (JavaScript 섹션 only)
 * [생활코딩 웹](https://www.opentutorials.org/course/3085) (한글)
 * [프로그래머스 웹](https://programmers.co.kr/learn/courses/10) (한글)
 * [Plainjs](https://plainjs.com/javascript/manipulation/) (영어)
