@@ -35,12 +35,12 @@
 * [Codecademy HTML](https://www.codecademy.com/learn/learn-html) (영어)
 * [Codecademy CSS](https://www.codecademy.com/learn/learn-css) (영어)
 
-### 1-2. 기초 테스트
+### 1-2. 기초 실습
 
 - [ ] [Horizontal Alignment](https://codepen.io/ken123777/pen/JBVRwY?editors=1100#0)
 - [ ] [Layouts](https://codepen.io/ken123777/pen/VBNmKz?editors=1100#0)
 
-### 1-3. 심화 테스트
+### 1-3. Advanced 실습
 
 초보자의 경우 Twitter Bootstrap, Zurb Foundation, 혹은 Bulma와 같은 CSS Framework은 사용하지 마시기 바랍니다. 또한 해당 페이지의 소스 코드를 보지 말고 스스로 생각하여 구현해보시기 바랍니다. 아래에 나열된 페이지들 이외에도 스스로 웹사이트를 보고 똑같이 따라만드는 시도를 해보시면 좋습니다. 처음에는 간단한 페이지도 일주일 이상 소요될 수 있습니다. 하지만 많은 시간을 투자하고 스스로 생각하는 과정을 겪다보면 소요 시간은 분명 줄어들 것입니다. HTML/CSS만을 연습하는 만큼 interaction이나 움직임은 무시하고 생긴 모양새만 똑같이 만들어보시면 됩니다. 이미지나 폰트의 경우, 해당 홈페이지에서 개발자 도구를 열어 소스 파일 주소를 찾아보실 수 있습니다.
 
@@ -62,20 +62,20 @@
 * [w3schools](https://www.w3schools.com/jS/default.asp) (영어)
 * [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript) (영어)
 
-### 2-2. 테스트
+### 2-2. 실습
 
 #### 유의할 것
 
 - 다른 사람의 **문제 해결 방법** 을 참고하거나 검색하지 마세요.
-- 프로그래머스의 경우, 레벨 1 그리고 완료한 사람의 수가 많은 문제부터 시도하세요.
+- **프로그래머스의 경우, 레벨 1 그리고 완료한 사람의 수가 많은 문제부터 시도하세요.**
 - 코드의 길이, 효율, 내용의 질에 연연하지 마시고, 문제를 스스로 해결하는 것에만 중점을 두세요.
 - 자바스크립트 문법이나 사용법에 대해 모르는 것이 있다면, 문제를 풀면서 [MDN](https://developer.mozilla.org/ko/)이나 인터넷에서 검색하셔도 괜찮습니다.
 
 #### 추천 플랫폼
 
-아래에 나열된 플랫폼들 중 원하는 플랫폼을 선택하여 이용하세요.
+아래에 나열된 플랫폼들 중 원하는 플랫폼을 선택하여 이용하세요. 우선 기초적인 수준만 해보세요.
 
-- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글)
+- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 1 50% 이상
 - [ ] [Codewars 알고리즘 문제](https://www.codewars.com/) (영어 - 추천)
 - [ ] [Hackerrank 알고리즘 문제](https://www.hackerrank.com/) (영어 - 추천)
 - [ ] [CoderByte 알고리즘 문제](https://coderbyte.com/challenges) (영어 - 추천)
@@ -95,23 +95,27 @@
 * [Hongkiat](https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/) (영어)
 * [DOM 관련 Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) (영어)
 
-### 3-2. 기초 테스트
+### 3-2. 실습
 
 jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합니다. jQuery 웹사이트에 들어가시면 해당 UI 샘플을 볼 수 있습니다.
 
 - [ ] 아코디언 만들기 ([jQuery UI 참고](https://jqueryui.com/accordion/))
 - [ ] 탭 만들기 ([jQuery UI 참고](https://jqueryui.com/tabs/))
+- [ ] 디지털 시계 만들기
 
-### 3-3. 심화 테스트
+## 4. 최종 마무리
 
+아래 항목들을 순서에 관계없이 시도해보시기 바랍니다. 전부 다 하셔야 할 필요는 없지만, 알고리즘 문제는 반드시 풀어보셔야 합니다.
+
+- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 2 50% 이상
 - [ ] 달력 만들기 ([달력 Sample](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif))
 - [ ] 위에서 만든 달력에 날짜별로 별개 관리가 되는 Todo List 추가하기 ([Todo List Sample](http://todomvc.com/examples/vue/))
-- [ ] 지뢰찾기 게임 만들기
-- [ ] 사다리타기 게임 만들기
+- [ ] [지뢰찾기 게임](https://kizmo04.github.io/Minesweeper/) 만들기
+- [ ] [사다리타기 게임](https://minjihee89.github.io/ghost-leg/) 만들기
 
-## 4. 사전 준비가 끝난 후
+## 5. 사전 준비가 끝난 후
 
-3번까지 사전 준비가 끝나고 부트캠프를 신청하신 분들의 경우, 아래의 주제들을 미리 학습하시면 좋습니다.
+위에 나열되어 있는 준비가 모두 끝나고 부트캠프를 신청하신 분들의 경우, 아래의 주제들을 꼼꼼하게 학습하시면 좋습니다.
 
 추천 도서: [Learning Javascript](https://book.naver.com/bookdb/book_detail.nhn?bid=12181869)
 
