@@ -97,7 +97,7 @@
 
 ### 3-2. 실습
 
-jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합니다. jQuery 웹사이트에 들어가시면 해당 UI 샘플을 볼 수 있습니다.
+jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합니다. jQuery 웹사이트에 들어가시면 해당 UI 샘플을 볼 수 있습니다. 애니메이션 효과는 구현하지 않으셔도 됩니다.
 
 - [ ] 아코디언 만들기 ([jQuery UI 참고](https://jqueryui.com/accordion/))
 - [ ] 탭 만들기 ([jQuery UI 참고](https://jqueryui.com/tabs/))
