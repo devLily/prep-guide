@@ -82,6 +82,13 @@
 - [ ] [LeetCode 알고리즘 문제](https://leetcode.com) (영어 - 추천)
 - [ ] [Codility 알고리즘 문제](https://www.codility.com) (영어 - 추천)
 
+
+---
+
+**위 내용까지 학습하신 경우, 부트캠프 어드미션 과정에 신청하실 수 있습니다.**
+
+---
+
 ## 3. DOM Interaction with Javascript
 
 ### 3-1. 강의 및 관련 자료
