@@ -75,7 +75,7 @@
 
 아래에 나열된 플랫폼들 중 원하는 플랫폼을 선택하여 이용하세요. 우선 기초적인 수준만 해보세요.
 
-- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 1 50% 이상
+- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 1의 다섯 문제 이상
 - [ ] [Codewars 알고리즘 문제](https://www.codewars.com/) (영어 - 추천)
 - [ ] [Hackerrank 알고리즘 문제](https://www.hackerrank.com/) (영어 - 추천)
 - [ ] [CoderByte 알고리즘 문제](https://coderbyte.com/challenges) (영어 - 추천)
