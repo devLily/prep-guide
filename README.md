@@ -2,7 +2,7 @@
 
 # 바닐라코딩 사전 학습 가이드
 
-바닐라코딩의 부트캠프 프로그램에 신청하기 전에 알고 있어야 할 **최소한**의 프로그래밍 지식들을 정리해놓았습니다. 현재 페이지에 나열된 자료들을 참고하여 공부하시되, 추가적으로 인터넷에서 여러 가지 자료를 **다양하게** 이용하여 공부하시기를 추천드립니다. 본인의 손과 머리에서 나오는 코드 한줄 한줄 정확하게 이해하시기를 바라며, 다른 사람의 해결책을 보고 따라하기보다는 **스스로** 생각하는 시간을 많이 갖기를 추천드립니다. 그리고 기초 단계에서는 효율보다는 정확성과 이해도에 집중하여 학습하기를 권장합니다.
+바닐라코딩의 부트캠프 프로그램(부트캠프 어드미션 프렙 포함)에 신청하기 전에 알고 있어야 할 **최소한**의 프로그래밍 지식들을 정리해놓았습니다. 현재 페이지에 나열된 자료들을 참고하여 공부하시되, 추가적으로 인터넷에서 여러 가지 자료를 **다양하게** 이용하여 공부하시기를 추천드립니다. 본인의 손과 머리에서 나오는 코드 한줄 한줄 정확하게 이해하시기를 바라며, 다른 사람의 해결책을 보고 따라하기보다는 **스스로** 생각하는 시간을 많이 갖기를 추천드립니다. 그리고 기초 단계에서는 효율보다는 정확성과 이해도에 집중하여 학습하기를 권장합니다.
 
 ## 사전 학습 가이드에 대한 질문
 
@@ -88,55 +88,3 @@
 **위 내용까지 학습하신 경우, 부트캠프 어드미션 과정에 신청하실 수 있습니다.**
 
 ---
-
-## 3. DOM Interaction with Javascript
-
-### 3-1. 강의 및 관련 자료
-
-아래 강의 자료 외에도 개인 선호도에 따라 다른 인터넷 자료나 책을 이용하셔도 괜찮습니다. 아래 자료를 모두 보셔야 하는건 아니고, 학습 상태에 따라 스스로 판단하여 1개 혹은 그 이상 보시면서 공부해보시면 좋을것 같습니다.
-
-* [PoiemaWeb JavaScript](https://poiemaweb.com/) (JavaScript 섹션 only)
-* [생활코딩 웹](https://www.opentutorials.org/course/3085) (한글)
-* [프로그래머스 웹](https://programmers.co.kr/learn/courses/10) (한글)
-* [Plainjs](https://plainjs.com/javascript/manipulation/) (영어)
-* [Hongkiat](https://www.hongkiat.com/blog/dom-manipulation-javascript-methods/) (영어)
-* [DOM 관련 Cheatsheet](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86) (영어)
-
-### 3-2. 실습
-
-jQuery를 이용하지 않고 바닐라 자바스크립트로 구현해야 합니다. jQuery 웹사이트에 들어가시면 해당 UI 샘플을 볼 수 있습니다. 애니메이션 효과는 구현하지 않으셔도 됩니다.
-
-- [ ] 아코디언 만들기 ([jQuery UI 참고](https://jqueryui.com/accordion/))
-- [ ] 탭 만들기 ([jQuery UI 참고](https://jqueryui.com/tabs/))
-- [ ] 디지털 시계 만들기
-
-## 4. 최종 마무리
-
-아래 항목들을 순서에 관계없이 시도해보시기 바랍니다. 전부 다 하셔야 할 필요는 없지만, 알고리즘 문제는 반드시 풀어보셔야 합니다.
-
-- [ ] [프로그래머스 알고리즘 문제](https://programmers.co.kr/learn/challenges) (한글) - Level 2 50% 이상, 다른 알고리즘 문제풀이 플랫폼의 초중급 이상의 난이도를 하셔도 됩니다.
-- [ ] [달력](https://github.com/vanilla-coding/prep-guide/blob/master/vanilla-calendar.gif) 만들기
-- [ ] 위에서 만든 달력에 날짜별로 별개 관리가 되는 [Todo List](http://todomvc.com/examples/vue/) 추가하기
-- [ ] [지뢰찾기 게임](https://kizmo04.github.io/Minesweeper/) 만들기
-- [ ] [사다리타기 게임](https://minjihee89.github.io/ghost-leg/) 만들기
-
-## 5. 사전 준비가 끝난 후
-
-위에 나열되어 있는 준비가 모두 끝나고 부트캠프를 신청하신 분들의 경우, 아래의 주제들을 꼼꼼하게 학습하시면 좋습니다.
-
-추천 도서: [Learning Javascript](https://book.naver.com/bookdb/book_detail.nhn?bid=12181869)
-
-- [ ] Basic Terminal Usage
-- [ ] git([Visualizing Git Tutorial](http://git-school.github.io/visualizing-git/))과 github 사용법
-- [ ] nodejs 설치
-- [ ] Scope
-- [ ] Hoisting
-- [ ] Closure
-- [ ] Primitive(원시값) vs Reference(참조값)
-- [ ] Function.prototype.call, Function.prototype.apply, Function.prototype.bind
-- [ ] Event Capturing vs Event Bubbling
-- [ ] Prototypes
-- [ ] `this` keyword
-- [ ] Ajax & Asynchronous Programming (비동기)
-- [ ] [Hackernews API](https://github.com/HackerNews/API)를 이용하여 Hackernews Clone 만들어보기
-- [ ] 지뢰찾기 만들기 ([참고](https://kizmo04.github.io/Minesweeper/))
