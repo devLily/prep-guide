@@ -95,5 +95,5 @@
 
 아래 나열된 어플리케이션 수준의 작업을 할 수 있어야 합니다. (서버/백엔드에 대한 학습은 필요하지 않습니다.)
 
-- 달력 + 날짜 별 Todo List를 관리할 수 있는 어플리케이션
-- [지뢰찾기](https://minesweeper-71500.firebaseapp.com/)
+- 달력 + 날짜 별 Todo List를 관리할 수 있는 어플리케이션 ([Sample Link](https://todo-calendar-8a678.firebaseapp.com/))
+- 지뢰찾기 ([Sample Link](https://minesweeper-71500.firebaseapp.com/))
