@@ -1,4 +1,6 @@
-![바닐라코딩 로고](https://s3.ap-northeast-2.amazonaws.com/vanilla-videos/images/main_logo_360.png)
+🚨 새로운 사전 학습 가이드를 참고하세요 👉🏻 https://book.vanillacoding.co/starter-kit
+
+---
 
 # 바닐라코딩 사전 학습 가이드
 
